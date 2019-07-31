@@ -1,1 +1,2 @@
-Text for the GIT Exercice
+Text for the GIT Exercice.
+Este es el primer cambio
